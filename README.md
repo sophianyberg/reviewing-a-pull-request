@@ -4,6 +4,7 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: https://githubschool.github.io/github-games/
 
+
 ### Instructions for playing the game
 
 1. Press the space bar to begin.
