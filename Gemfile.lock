@@ -34,7 +34,6 @@ GEM
     github-pages (202)
       activesupport (= 4.2.11.1)
       github-pages-health-check (= 1.16.1)
-      jekyll (= 3.8.5)
       jekyll-avatar (= 0.6.0)
       jekyll-coffeescript (= 1.1.1)
       jekyll-commonmark-ghpages (= 0.1.6)
